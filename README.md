@@ -1,2 +1,9 @@
-[README.md](https://github.com/qneki/P-CAD/files/10288422/README.md)
-# P-CAD
+- [1st lab](p-cad-1-and-2/)
+- [2st lab](p-cad-1-and-2/)
+- [3st lab](p-cad-3)
+- [4st lab](p-cad-4)
+- [5st lab](p-cad-5)
+- [6st lab](p-cad-6)
+- [7st lab](p-cad-7)
+- [8st lab](p-cad-8)
+- [9st lab](p-cad-9)
